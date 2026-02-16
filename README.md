@@ -56,3 +56,5 @@ Visualization  | React / Matplotlib (Optional) |
 ```bash
 git clone <your-repo-link>
 cd Employee-Payroll-System
+
+<img width="1898" height="963" alt="image" src="https://github.com/user-attachments/assets/3bac72fc-8f35-49dc-9fd3-c013bba99517" />

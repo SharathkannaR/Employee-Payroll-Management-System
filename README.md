@@ -1,1 +1,58 @@
-# Employee-Payroll-Management-System
+# Employee Payroll & Performance Management System
+
+## 📌 Overview
+A relational database system designed to manage employee payroll, attendance, and performance analytics using MySQL, with optional Python Flask API integration and dashboard visualization.
+
+---
+
+## 🏗️ Features
+
+✔ Normalized 6-table relational schema  
+✔ Payroll automation using Stored Procedures  
+✔ Attendance-based salary deduction using Triggers  
+✔ Performance ranking using SQL Window Functions  
+✔ Analytical reporting using Views  
+✔ Optimized queries with Indexing  
+✔ REST API built using Flask  
+✔ Dashboard-ready analytics for visualization
+
+---
+
+## 🗂️ Database Schema
+
+- Employees  
+- Departments  
+- Attendance  
+- Payroll  
+- Leaves  
+- Performance_Reviews  
+
+---
+
+## 📊 Analytical Insights
+
+- Department-wise salary expenditure  
+- Attendance trend analysis  
+- Top-performing employees  
+- Hiring growth trends  
+- Payroll distribution reports  
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer        | Technology |
+|-------------|------------|
+Database       | MySQL |
+Backend API    | Python Flask |
+Analytics      | SQL (Joins, Window Functions, Aggregations) |
+Visualization  | React / Matplotlib (Optional) |
+
+---
+
+## 🚀 How to Run Locally
+
+### 1️⃣ Clone Repository
+```bash
+git clone <your-repo-link>
+cd Employee-Payroll-System

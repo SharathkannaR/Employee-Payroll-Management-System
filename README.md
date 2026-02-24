@@ -49,6 +49,9 @@ Analytics      | SQL (Joins, Window Functions, Aggregations) |
 Visualization  | React / Matplotlib (Optional) |
 
 ---
+Screenshots:
+<img width="1896" height="973" alt="image" src="https://github.com/user-attachments/assets/352912e1-ec32-4c90-a811-e7664d3a9029" />
+
 
 ## 🚀 How to Run Locally
 
